@@ -1,0 +1,6 @@
+chainlit
+torch
+torchvision
+transformers
+diffusers
+accelerate 
